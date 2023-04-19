@@ -1,4 +1,10 @@
-Basic PythonScripts
+This Contains my python study assignements, CTF tools and scripts
 
-1. Socket 
-2. Port scanner
+CTF Tools  
+
+1. Log analysis  
+
+Redteam Tools
+
+1. Socket  
+2. Port scanner  
